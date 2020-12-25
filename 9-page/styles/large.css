@@ -1,0 +1,213 @@
+@media screen and (min-width: 1200px) {
+    
+/*START*//*START*//*START*//*START*//*START*//*START*//*START*/
+
+.nav-site-logo {
+    margin-left: 18px;
+}
+
+.nav-time {
+    width: 350px;
+    margin-left: 10px;
+}
+
+.nav-search {
+    width: 327px;
+}
+
+.nav-links {
+    width: 175px;
+}
+
+.nav-language {
+    padding-left: 7px;
+}
+
+.nav-language span {
+    margin-left: 15px;
+}
+
+.nav-iconbar a {
+    padding: 21px 52px 22px 32px;
+}
+
+.dropdown-content {
+    width: 1169px;
+    position: absolute;
+    right: -63px;
+    top: 47px;
+}
+
+/* BASIC */
+
+.header-international-news {
+    height: 200px;
+}
+
+.main-first-column {
+    margin-right: 40px;
+}
+
+
+/* DIFFICULT NAVBAR *//* DIFFICULT NAVBAR *//* DIFFICULT NAVBAR */
+
+
+.nav-pillslar {
+    display: flex;
+}
+
+.nav-link-news {
+     padding-left: 15px;
+     padding-right: 15px;
+}
+
+.nav-link-fashion {
+     padding-left: 15px;
+     padding-right: 15px;
+}
+
+.nav-link-gadgets {
+     padding-left: 15px;
+     padding-right: 15px;
+}
+
+
+.nav-link-video {
+     padding-left: 15px;
+     padding-right: 15px;
+}
+
+.nav-link-homelayouts {
+     padding-left: 15px;
+     padding-right: 15px;
+}
+
+.nav-link-features {
+     padding-left: 15px;
+     padding-right: 15px;
+}
+
+.nav-link-world {
+     padding-left: 15px;
+     padding-right: 15px;
+}
+
+
+/* DIFFICULT NAVBAR *//* DIFFICULT NAVBAR *//* DIFFICULT NAVBAR */
+
+.listing-instagram-blog {
+    position: relative;
+    bottom: 20px;
+}
+
+.listing-people-photos-big {
+    position: absolute;
+    bottom: 80px;
+}
+
+.black-video-collections h3 {
+    font-size: 25px;
+}
+
+.aside-banner-img {
+    padding-top: 50px;
+}
+
+.row-lg-md {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.row-p-lg-md {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.yellow-div span {
+    font-size: 30px;
+}
+
+.form-name {
+    padding-left: 0;
+}
+
+.form-number {
+    padding-right: 0;
+}
+
+.grey-dispossessed p {
+    position: relative;
+    top: 162px;
+}
+
+.black-dispossessed p {
+    position: relative;
+    top: 162px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* BASIC */
+
+
+
+
+
+
+/*END*//*END*//*END*//*END*//*END*//*END*//*END*//*END*//*END*/
+    
+}
+
+
+@media screen and (min-width: 1000px) and (max-width: 1500px) {
+
+.container-breadcrumb {
+    width: 100%;
+}
+
+.header-international-news-fluid {
+    width: 100%;
+}
+
+.container-listing {
+    width: 100%;
+}
+
+}

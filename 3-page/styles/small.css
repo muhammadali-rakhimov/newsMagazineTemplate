@@ -1,0 +1,147 @@
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+/*START*//*START*//*START*//*START*//*START*//*START*//*START*/
+
+body {
+    background: #E6E6E6;
+}
+
+.second-line {
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.nav-site-logo {
+    margin-left: 290px;
+}
+
+.navbar-1-part, .navbar-2-part {
+    border: 0 !important;
+
+}
+
+
+/* DIFFICULT NAVBAR *//* DIFFICULT NAVBAR *//* DIFFICULT NAVBAR */
+
+
+.nav-pillslar {
+    display: flex;
+}
+
+
+.nav-navs-all ul li {
+    position: relative;
+    left: 60px;
+}
+
+/* DIFFICULT NAVBAR *//* DIFFICULT NAVBAR *//* DIFFICULT NAVBAR */
+
+
+
+
+.navbar-2-part {
+    border-left: 1px solid black !important;
+}
+
+.nav-navs-all ul {
+    padding: 0;
+}
+
+
+.nav-navs-all {
+    border-right: 0 !important;
+}
+
+.footer-magazin {
+    background-position: 40px 0 !important;
+}
+
+.footer-span-magazin {
+    position: relative;
+    right: 10px;
+}
+
+.nav-navs-all ul li {
+    padding-right: 5px;
+    padding-left: 3.6px;
+}
+
+
+
+/* BASIC */
+
+.header-international-news-fluid {
+    width: 100%;
+}
+
+.header-international-news {
+    height: 200px;
+}
+
+.listing-people-photos-big {
+    position: absolute;
+    bottom: 125px;
+}
+
+.black-video-collections h3 {
+    font-size: 20px;
+}
+
+.aside-banner-img {
+    padding-top: 50px;
+}
+
+.aside-banner-img img {
+    position: relative;
+    left: 220px;
+}
+
+.main-videos {
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* BASIC */
+
+
+/*END*//*END*//*END*//*END*//*END*//*END*//*END*//*END*//*END*/
+
+}

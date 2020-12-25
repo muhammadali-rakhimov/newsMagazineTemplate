@@ -1,0 +1,494 @@
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+/*START*//*START*//*START*//*START*//*START*//*START*//*START*/
+
+.nav-time {
+    width: 305px;
+}
+
+.nav-search {
+    width: 210px;
+    padding: 0;
+}
+
+.fa-search {
+    padding-left: 12px;
+}
+
+.nav-links {
+    width: 170px;
+}
+
+.lang-fre {
+    position: relative;
+    left: 8px;
+}
+
+.nav-link-news a {
+    padding-left: 4px;
+}
+
+.nav-navs-all ul {
+    position: relative;
+    left: -30px;
+}
+
+.nav-navs-all ul li {
+    padding: 0;
+    padding-left: 8px;
+    font-size: 12px;
+}
+
+.nav-link-lifestyle a {
+    font-size: 13px;
+    background-color: #FFE400;
+    color: black;
+}
+
+.nav-navs-all ul li {
+    padding-right: 3px;
+    padding-left: 3.6px;
+}
+
+
+.nav-iconbar a {
+    padding: 21px 47px 22px 28px;
+}
+
+
+.header-news-navigation {
+    width: 100%;
+    height: 600px;
+    background-image: url('../images/Layer 92.png');
+    background-position: -300px 0;
+}
+
+.main-basic-column {
+    margin-left: 40px;
+}
+
+.aside-right-about-weather {
+    box-shadow: 0px 0px 4px 1px rgba(204,204,179,1);
+}
+
+.parent-main-column {
+    clear: both;
+    padding-bottom: 70px;
+}
+
+.weather-icons img {
+    position: relative;
+    bottom: 25px;
+}
+
+.celciy-weather {
+    margin-top: 10px;
+    font-size: 23px !important;
+    float: left;
+}
+
+.hr-none {
+    display: none;
+}
+
+.CloudySkies-weather {
+    float: left;
+    font-size: 15px !important;
+}
+
+.address-weather {
+    position: relative;
+    bottom: 15px;
+    padding-bottom: 10px;
+    font-size: 15px !important;
+    float: left;
+}
+
+.weather-wave {
+    padding-left: 25px;
+}
+
+.weather-wave img {
+    margin-top: 2px;
+    display: block;
+    padding-bottom: 3px;
+}
+
+.tilt-weather {
+    padding-left: 20px;
+}
+
+.tilt-weather img {
+    display: block;
+    padding-bottom: 2px;
+}
+
+.weather-sunny {
+    position: relative;
+    left: 20px;
+    bottom: 2px;
+    padding-bottom: 20px;
+}
+
+.first-line-followus {
+    position: relative;
+    bottom: 10px;
+}
+
+.second-line-followus {
+    position: relative;
+    bottom: 10px;
+}
+
+.followus-twitter-main {
+    position: relative;
+    right: 10px;
+}
+
+.followus-google-main {
+    position: relative;
+    right: 10px;
+}
+
+.followus-youtube-main {
+    position: relative;
+    right: 7px;
+}
+
+.followus-facebook-footer p {
+    font-size: 11px;
+}
+
+.followus-twitter-footer p {
+    font-size: 11px;
+}
+
+.followus-google-footer p {
+    font-size: 11px;
+}
+
+.followus-youtube-footer p {
+    font-size: 11px;
+}
+
+.followus-instagram-footer p {
+    font-size: 11px;
+}
+
+.followus-linkedin-footer p {
+    font-size: 11px;
+}
+
+.categories-news {
+    height: 80px;
+    margin-top: 20px;
+    border-bottom: 1px solid #E6E6E6;
+    margin-bottom: 20px;
+}
+
+.datafootball {
+    position: relative;
+    top: 80px;
+}
+
+.categories-second-basic {
+    margin-top: 10px;
+}
+
+.fc-border {
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.categories-second-basic {
+    position: relative;
+    bottom: 60px;
+}
+
+.football-tabs {
+    font-size: 12px;
+}
+
+.football-tabs li {
+    float: none;
+}
+
+.onlinepoll-vote {
+    margin-right: 20px;
+}
+
+.new-muscarusel-big {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.photos-indicators {
+    margin-left: -10px;
+    background-color: black;
+}
+
+.main-content-intnews-about {
+    position: relative;
+    right: 15px;
+}
+
+.main-intnews-img {
+    display:block;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+.main-intnews-img {
+    margin-top: 20px;
+}
+
+.main-international-news {
+    padding-bottom: 20px;
+}
+
+.newsinpictures-loader-basic {
+    position: relative;
+    right: 45px;
+    bottom: 30px;
+}
+
+.intnews-marg-responsive {
+    margin-left: 12px;
+}
+
+.main-content-intnews-about {
+    padding: 0;
+    margin: 0;
+}
+
+.newsarchives-mrg-respons {
+    margin-top: 750px !important;
+}
+
+.newsarchives-navbar-div ul li a {
+    width: 67.5px !important;
+    height: 50px;
+    padding-left: 8px;
+    padding-right: 8px;
+    font-size: 13px;
+    line-height: 3.7em !important;
+}
+
+.newsarchives-bg-about {
+    position: relative;
+    top: 167px;
+}
+
+.newsarchives-second-column {
+    border-left: 1px solid #E4E4E4;
+}
+
+.categories-second-spans-padding {
+    padding: 10px 5px 9px 10px;
+}
+
+
+.black-video-collections h3 {
+    font-size: 18px;
+}
+
+.site-basic-social-mail {
+    position: relative;
+    bottom: 30px;
+}
+
+.site-about-end {
+    padding-bottom: 50px;
+}
+
+.glyphicon-site-end-parent div {
+    position: relative;
+    left: 10px;
+}
+
+.dropdown-padding {
+    position: relative;
+    right: 3px;
+}
+
+.dropdown-content {
+    width: 87vw;
+    position: absolute;
+    right: -57px;
+    top: 47px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*END*//*END*//*END*//*END*//*END*//*END*//*END*//*END*//*END*/
+
+}

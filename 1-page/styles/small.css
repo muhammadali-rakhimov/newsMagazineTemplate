@@ -1,0 +1,262 @@
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+/*START*//*START*//*START*//*START*//*START*//*START*//*START*/
+
+body {
+    /*background-color: #eee;*/
+}
+
+.second-line {
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.nav-home-icon {
+    border-left: 1px solid black;
+}
+
+.nav-site-logo {
+    margin-left: 290px;
+}
+
+.navbar-1-part, .navbar-2-part {
+    border: 0 !important;
+}
+
+.nav-navs-all ul {
+    padding: 0;
+}
+
+.nav-navs-all ul li {
+    position: relative;
+    left: 45px;
+}
+
+.nav-navs-all {
+    border-right: 0 !important;
+}
+
+.footer-magazin {
+    background-position: 40px 0 !important;
+}
+
+.footer-span-magazin {
+    position: relative;
+    right: 10px;
+}
+
+.nav-navs-all ul li {
+    padding-right: 5px;
+    padding-left: 3.6px;
+}
+
+.main-aside-weather {
+    padding-bottom: 10px;
+}
+
+.weather-about-span {
+    position: relative;
+    top: 20px;
+    left: 10px;
+}
+
+.aside-weather-footer {
+    text-align: center;
+    position: relative;
+    bottom: 10px;
+}
+
+.followus-facebook-main {
+    text-align: center;
+}
+
+.followus-twitter-main {
+    text-align: center;
+}
+
+.followus-google-main {
+    text-align: center;
+}
+
+.followus-youtube-main {
+    text-align: center;
+}
+
+.followus-instagram-main {
+    text-align: center;
+}
+
+.followus-linkedin-main {
+    text-align: center;
+}
+
+
+.categories-news {
+    position: relative;
+    top: 10px;
+}
+
+.datafootball {
+    position: relative;
+    top: 100px;
+}
+
+.fc-border {
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+
+.categories-second-basic {
+    position: relative;
+    top: -20px;
+}
+
+.new-muscarusel-big {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.categories-second-basic {
+    margin-bottom: 10px;
+}
+
+.yellow-round-intnews {
+    margin-left: 10px;
+}
+
+.main-content-intnews-about {
+    position: relative;
+    right: 15px;
+    margin-left: 10px;
+}
+
+.main-intnews-img {
+    display:block;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+.main-international-news {
+    padding-bottom: 20px;
+}
+
+.newsinpictures-loader-basic {
+    position: relative;
+    right: 20px;
+    bottom: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.intnews-marg-responsive {
+    margin-left: 145px;
+}
+
+.newsinpictures-news-second-line {
+    margin-top: 170px !important;
+}
+
+.newsarchives-mrg-respons {
+    margin-top: 210px !important;
+}
+
+.newsarchives-navbar-div ul li {
+    padding-left: 20px;
+}
+
+.newsarchives-bg-about {
+    position: relative;
+    top: 216px;
+}
+
+.intnews-second-spans-start {
+    border-top: 1px solid #E4E4E4;
+}
+
+.categories-second-spans-padding {
+    padding: 10px 5px 9px 10px;
+}
+
+.adminpack-nav ul {
+    padding-bottom: 20px;
+}
+
+.photo-collection-child-rating {
+    text-align: center;
+}
+
+.photo-collection-child-rating a {
+    padding-right: 20px;
+}
+
+.photo-collection-child-sm-xs {
+    margin-bottom: 180px;
+}
+
+.photo-collection-child-end-sm-xs {
+    margin-bottom: 50px;
+}
+
+.black-video-collections h3 {
+    font-size: 20px;
+}
+
+.black-video-collections h3 {
+    font-size: 16px;
+}
+
+.site-basic-social-mail {
+    position: relative;
+    bottom: 30px;
+}
+
+.jointhenewsletter-second {
+    margin-top: 10px;
+}
+
+.jointhenewsletter-blackcolor {
+    margin-top: 10px;
+}
+
+.glyphicon-site-end-parent div {
+    margin-left: 15%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*END*//*END*//*END*//*END*//*END*//*END*//*END*//*END*//*END*/
+
+}

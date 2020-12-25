@@ -1,0 +1,250 @@
+@media screen and (min-width: 1200px) {
+    
+/*START*//*START*//*START*//*START*//*START*//*START*//*START*/
+
+.nav-site-logo {
+    margin-left: 18px;
+}
+
+.nav-time {
+    width: 350px;
+    margin-left: 10px;
+}
+
+.nav-search {
+    width: 300px;
+}
+
+.nav-links {
+    width: 175px;
+}
+
+.nav-language {
+    padding-left: 7px;
+}
+
+.nav-language span {
+    margin-left: 15px;
+}
+
+.nav-iconbar a {
+    padding: 21px 52px 22px 32px;
+}
+
+.dropdown-content {
+    width: 85vw;
+    position: absolute;
+    right: -64px;
+    top: 47px;
+}
+
+.header-news-navigation {
+    height: 600px;
+    background-image: url('../images/Layer 92.png');
+}
+
+.main-basic-column {
+    margin-left: 50px;
+}
+
+.aside-right-about-weather {
+    box-shadow: 0px 0px 4px 1px rgba(204,204,179,1);
+}
+
+.weather-about-span span {
+    float: left;
+}
+
+.followus-instagram-main {
+    position: relative;
+    left: 7px;
+}
+
+.followus-linkedin-main {
+    position: relative;
+    left: 7px;
+}
+
+.categories-images {
+    padding-bottom: 10px;
+}
+
+.categories-span-data, .yellow-comment, .comment-span {
+    position: relative;
+    top: 20px;
+}
+
+.fc-border {
+    border-left: 1px solid #E4E4E4;
+    position: relative;
+    top: 90px;
+}
+
+.football-tabs {
+    font-size: 12px;
+}
+
+.football-tabs li {
+    float: none;
+}
+
+.aside-football-results a {
+    padding: 0;
+}
+
+.aside-football-sportnews a {
+    padding: 0;
+}
+
+.categories-second-basic {
+    position: relative;
+    top: -45px;
+}
+
+.music-slide {width: 487px;}
+
+.new-muscarusel-big {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.allabout-newslocal {
+    padding-left: 20px;
+}
+
+.photos-indicators {
+    padding-left: 60px;
+    margin-left: -10px;
+}
+
+.photos-indicators li {
+    padding: 7px;
+    position: relative;
+    top: 5px;
+    background-color: #E5E5E5;
+    border-color: black;
+}
+
+.photo-activi {
+    background-color: #E5E5E5;
+}
+
+
+.crsl-inner {
+    margin: 0 0 0 15px;
+    position: relative;
+    top: 20px;
+}
+
+.main-tab-intnews {
+    padding-top: 20px;
+}
+
+.newsinpictures-loader-basic {
+    position: relative;
+    right: 25px;
+    bottom: 30px;
+}
+
+.intnews-marg-responsive {
+    margin-left: 62px;
+}
+
+.newsarchives-mrg-respons {
+    margin-top: 190px !important;
+}
+
+.newsarchives-bg-about {
+    position: relative;
+    top: 191px;
+}
+
+.newsarchives-second-column {
+    border-left: 1px solid #E4E4E4;
+}
+
+.intnews-second-spans-start {
+    border-top: 0 !important;
+}
+
+.intnews-second-spans-end {
+    border-bottom: 0;
+}
+
+.newsarchives-second-column {
+    border-left: 1px solid #E4E4E4;
+}
+
+.categories-second-spans-padding {
+    padding: 17.7px 5px 18.1px 10px;
+}
+
+.black-video-collections h3 {
+    font-size: 20px;
+}
+
+.site-basic-social-mail {
+    position: relative;
+    bottom: 10px;
+}
+
+.glyphicon-site-end-parent div {
+    position: relative;
+    left: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*END*//*END*//*END*//*END*//*END*//*END*//*END*//*END*//*END*/
+    
+}
+
+
+@media screen and (min-width: 1000px) and (max-width: 1500px) {
+
+.header-news-navigation {
+    width: 100%;
+}
+
+.breakingnews-fluid {
+    width: 100%;
+}
+
+.adminspick-fluid {
+    width: 100%;
+}
+
+
+}
+
+
+
+
+
+@media screen and (max-width: 1600px) {
+
+.video-collections-parent {
+    background: url("../images/new-york-city-bg.png") 0 0 no-repeat !important;
+}
+
+}

@@ -1,0 +1,157 @@
+@import "extra-small.css";
+@import "small.css";
+@import "middle.css";
+@import "large.css";
+
+/* START *//* START *//* START *//* START *//* START *//* START *//* START */
+
+@font-face {
+    font-family: 'Raleway-Regular';
+    src: url('../font/Raleway/Raleway-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'FiraSans-Regular';
+    src: url('../font/fira-sans/FiraSans-Regular.otf');
+}
+
+@font-face {
+    font-family: 'OpenSans-Regular';
+    src: url('../font/Open_Sans/OpenSans-Regular.ttf');
+}
+
+html, body {
+    height: 100%;
+}
+
+.clear {
+    clear: both;
+    height: 100px;
+}
+
+html {
+    background: #333333;
+}
+
+main {
+    min-height: 100%;
+    background: #333333;
+}
+
+.bg-img {
+    height: 100%;
+    background: url('../images/grey-solid.png') -300px -100px no-repeat;
+}
+
+.basic-container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    height: 100vh;
+}
+
+.red-div {
+    height: 150px;
+    width: 150px;
+    padding-top: 40px;
+    background: #CA1A01 url('../images/Rectangle 23 red.png') 51px 44px no-repeat;
+}
+
+.red-div i {
+    margin-left: 19px;
+    color: #D42A2A;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.red-div b {
+    color: white;
+    font-size: 30px;
+    font-style: italic;
+}
+
+.p-container p {
+    margin-top: 20px;
+    color: white;
+    font-size: 18px;
+    font-family: 'OpenSans-Regular';
+}
+
+.time-ostalos {
+    color: white;
+}
+
+.time-ostalos h1 {
+    width: 80px;
+    font-size: 70px;
+    font-family: 'FiraSans-Regular';
+    border-bottom: 5px solid #CA1A01;
+}
+
+.time-ostalos p {
+    font-size: 25px;
+    font-family: 'Raleway-Regular';
+    font-weight: normal;
+}
+
+.form-basic {
+    margin-top: 20px;
+}
+
+.form-control {
+    padding: 20px;
+    background: #1A1A1A;
+    color: white;
+    border-color: #111;
+    font-family: 'Raleway-Regular';
+}
+
+button {
+    font-family: 'FiraSans-Regular';
+    padding: 10px !important;
+    margin-left: 20px;
+    background-color: #CA1A01;
+    color: white;
+    border: 2px solid #D42A2A !important;
+}
+
+button:hover {
+    color: #aaa !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* END *//* END *//* END *//* END *//* END *//* END *//* END *//* END */

@@ -1,0 +1,310 @@
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+/*START*//*START*//*START*//*START*//*START*//*START*//*START*/
+
+.nav-time {
+    width: 305px;
+}
+
+.nav-search {
+    width: 237px;
+    padding: 0;
+}
+
+.fa-search {
+    padding-left: 12px;
+}
+
+.nav-links {
+    width: 170px;
+}
+
+.lang-fre {
+    position: relative;
+    left: 8px;
+}
+
+.nav-link-news a {
+    padding-left: 4px;
+}
+
+.nav-navs-all ul {
+    position: relative;
+    left: -30px;
+}
+
+.nav-navs-all ul li {
+    padding: 0;
+    padding-left: 8px;
+    font-size: 12px;
+}
+
+.nav-link-lifestyle a {
+    font-size: 13px;
+}
+
+.nav-navs-all ul li {
+    padding-right: 3px;
+    padding-left: 3.6px;
+}
+
+
+.nav-iconbar a {
+    padding: 21px 47px 22px 28px;
+}
+
+.dropdown-padding {
+    position: relative;
+    right: 3px;
+}
+
+.dropdown-content {
+    width: 1000px;
+    position: absolute;
+    right: -51.5px;
+    top: 47px;
+}
+
+.position-dropdown {
+    position: relative;
+    left: -18px;
+}
+
+
+/* BASIC */
+
+.header-international-news {
+    height: 200px;
+}
+
+.main-first-column {
+    margin-right: 40px;
+}
+
+.listing-instagram-parent img {
+    padding-bottom: 20px;
+}
+
+.listing-people-photos-big {
+    position: absolute;
+    bottom: 135px;
+}
+
+.black-video-collections h3 {
+    font-size: 23px;
+}
+
+.aside-banner-img {
+    padding-top: 50px;
+}
+
+.aside-banner-img img {
+    width: 190px;
+}
+
+.main-red-round-main-basic {
+    margin-top: 20px;
+}
+
+.share-big {
+    text-align: center;
+}
+
+.main-share-social {
+    margin-bottom: 30px;
+}
+
+.comment-content {
+    padding-left: 30px;
+}
+
+.form-horizontal {
+    margin-top: 10px;
+}
+
+.form-name {
+    padding-left: 0;
+}
+
+.form-number {
+    padding-right: 0;
+}
+
+.grey-dispossessed p {
+    position: relative;
+    top: 162px;
+}
+
+.black-dispossessed p {
+    position: relative;
+    top: 162px;
+}
+
+.position-caption {
+    margin-top: 20px;
+}
+
+img {
+    margin-left: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* DIFFICULT NAVBAR *//* DIFFICULT NAVBAR *//* DIFFICULT NAVBAR */
+
+
+.nav-pillslar {
+    display: flex;
+}
+
+.nav-link-news {
+    padding-left: 15px;
+    padding-right: 15px;
+    position: relative;
+    left: 0px;
+}
+
+.nav-link-fashion {
+    padding-left: 15px;
+    padding-right: 15px;
+    position: relative;
+    left: 0px;
+}
+
+.nav-link-gadgets {
+    padding-left: 15px;
+    padding-right: 15px;
+    position: relative;
+    left: 10px;
+}
+
+.nav-link-video {
+    padding-left: 15px;
+    padding-right: 15px;
+    position: relative;
+    left: 20px;
+}
+
+.nav-link-lifestyle {
+    padding-left: 15px;
+    padding-right: 15px;
+    position: relative;
+    left: 25px;
+}
+
+.nav-link-homelayouts {
+    padding-left: 15px;
+    padding-right: 15px;
+    position: relative;
+    left: 30px;
+}
+
+.nav-link-features {
+    padding-left: 15px;
+    padding-right: 15px;
+    position: relative;
+    left: 40px;
+}
+
+.nav-link-world {
+    padding-left: 15px;
+    padding-right: 15px;
+    position: relative;
+    left: 50px;
+}
+
+
+/* DIFFICULT NAVBAR *//* DIFFICULT NAVBAR *//* DIFFICULT NAVBAR */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* BASIC */
+
+
+/*END*//*END*//*END*//*END*//*END*//*END*//*END*//*END*//*END*/
+
+}

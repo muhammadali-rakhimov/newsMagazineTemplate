@@ -1,0 +1,209 @@
+@media screen and (max-width: 768px) {
+
+/*START*//*START*//*START*//*START*//*START*//*START*//*START*/
+
+.text-center-sm-and-xs {
+    text-align: center;
+}
+
+.text-center-xs {
+    text-align: center;
+}
+
+.nav-home-icon {
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+/* DIFFICULT NAVBAR *//* DIFFICULT NAVBAR *//* DIFFICULT NAVBAR */
+
+
+
+.nav-pillslar a {
+    display: block !important;
+    float: none !important;
+}
+
+
+
+/* DIFFICULT NAVBAR *//* DIFFICULT NAVBAR *//* DIFFICULT NAVBAR */
+
+.nav-navs-all ul > li {
+    padding: 0;
+    padding-left: 8px;
+    position: relative;
+    left: 12px;
+}
+
+.nav-navs-all {
+    border-right: 0 !important;
+    border-left: 1px solid #333333;
+}
+
+.nav-navs-all ul {
+    text-align: center;
+    margin: 0 0 0 2px;
+}
+
+.nav-link-lifestyle a  {
+    border-radius: 0 !important;
+    background-color: #111111 !important;
+    color: white !important;
+}
+
+.nav-link-lifestyle a:hover {
+    background-color: black !important;
+}
+
+.footer-xs-margin {
+    margin-top: 20px;
+}
+
+.footer-first-column {
+    text-align: center;
+}
+
+.footer-news {
+    position: relative;
+    left: -7px;
+}
+
+.header-internationalnews-span {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.intnews-yellow-round {
+    display: none;
+}
+
+/* BASIC */
+
+.aside-right {
+    text-align: center;
+}
+
+.yellow-div span {
+    font-size: 18px;
+}
+
+.main-progress-div span {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.share-big {
+    text-align: center;
+}
+
+.main-share-social {
+    margin-bottom: 30px;
+}
+
+.comment-img {
+    padding-left: 30px;
+}
+
+.form-name {
+    padding-left: 0;
+}
+
+.form-number {
+    padding-right: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* BASIC */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*END*//*END*//*END*//*END*//*END*//*END*//*END*//*END*//*END*/
+
+}
+
+
+
+/* OTHER *//* OTHER *//* OTHER *//* OTHER *//* OTHER *//* OTHER *//* OTHER */
+/* OTHER *//* OTHER *//* OTHER *//* OTHER *//* OTHER *//* OTHER *//* OTHER */
+/* OTHER *//* OTHER *//* OTHER *//* OTHER *//* OTHER *//* OTHER *//* OTHER */
+
+
+@media screen and (min-width: 300px) and (max-width: 768px) {
+  
+.footer-magazin {
+    background-image: none !important;
+}
+
+.footer-span-magazin {
+    display: none;
+}
+
+.footer-news {
+    position: relative;
+    right: 30px;
+}
+
+}

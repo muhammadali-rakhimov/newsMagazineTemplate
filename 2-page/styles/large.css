@@ -1,0 +1,150 @@
+@media screen and (min-width: 1200px) {
+    
+/*START*//*START*//*START*//*START*//*START*//*START*//*START*/
+
+.nav-site-logo {
+    margin-left: 18px;
+}
+
+.nav-time {
+    width: 350px;
+    margin-left: 10px;
+}
+
+.nav-search {
+    width: 327px;
+}
+
+.nav-links {
+    width: 175px;
+}
+
+.nav-language {
+    padding-left: 7px;
+}
+
+.nav-language span {
+    margin-left: 15px;
+}
+
+.nav-iconbar a {
+    padding: 21px 52px 22px 32px;
+}
+
+.dropdown-content {
+    width: 1170px;
+    position: absolute;
+    right: -63px;
+    top: 47px;
+}
+
+/* BASIC */
+
+.header-international-news {
+    height: 200px;
+}
+
+.main-first-column {
+    margin-right: 40px;
+}
+
+
+/* DIFFICULT NAVBAR *//* DIFFICULT NAVBAR *//* DIFFICULT NAVBAR */
+
+
+.nav-pillslar {
+    display: flex;
+}
+
+.nav-link-news {
+     padding-left: 15px;
+     padding-right: 15px;
+}
+
+.nav-link-fashion {
+     padding-left: 15px;
+     padding-right: 15px;
+}
+
+.nav-link-gadgets {
+     padding-left: 15px;
+     padding-right: 15px;
+}
+
+
+.nav-link-video {
+     padding-left: 15px;
+     padding-right: 15px;
+}
+
+.nav-link-homelayouts {
+     padding-left: 15px;
+     padding-right: 15px;
+}
+
+.nav-link-features {
+     padding-left: 15px;
+     padding-right: 15px;
+}
+
+.nav-link-world {
+     padding-left: 15px;
+     padding-right: 15px;
+}
+
+
+/* DIFFICULT NAVBAR *//* DIFFICULT NAVBAR *//* DIFFICULT NAVBAR */
+
+.listing-instagram-blog {
+    position: relative;
+    bottom: 20px;
+}
+
+.listing-people-photos-big {
+    position: absolute;
+    bottom: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* BASIC */
+
+
+
+
+
+
+/*END*//*END*//*END*//*END*//*END*//*END*//*END*//*END*//*END*/
+    
+}
+
+
+@media screen and (min-width: 1000px) and (max-width: 1500px) {
+
+.header-international-news-fluid {
+    width: 100%;
+}
+
+.container-listing {
+    width: 100%;
+}
+
+}

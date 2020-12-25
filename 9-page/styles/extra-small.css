@@ -1,0 +1,215 @@
+@media screen and (max-width: 768px) {
+
+/*START*//*START*//*START*//*START*//*START*//*START*//*START*/
+
+.nav-home-icon {
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+/* DIFFICULT NAVBAR *//* DIFFICULT NAVBAR *//* DIFFICULT NAVBAR */
+
+
+
+.nav-pillslar a {
+    display: block !important;
+    float: none !important;
+}
+
+
+
+/* DIFFICULT NAVBAR *//* DIFFICULT NAVBAR *//* DIFFICULT NAVBAR */
+
+.nav-navs-all ul > li {
+    padding: 0;
+    padding-left: 8px;
+    position: relative;
+    left: 12px;
+}
+
+.nav-navs-all {
+    border-right: 0 !important;
+    border-left: 1px solid #333333;
+}
+
+.nav-navs-all ul {
+    text-align: center;
+    margin: 0 0 0 2px;
+}
+
+
+.footer-xs-margin {
+    margin-top: 20px;
+}
+
+.footer-first-column {
+    text-align: center;
+}
+
+.footer-news {
+    position: relative;
+    left: -7px;
+}
+
+.header-internationalnews-span {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.intnews-yellow-round {
+    display: none;
+}
+
+/* BASIC */
+
+.header-internationalnews-p {
+    margin-bottom: 20px;
+}
+
+.listingcarusel-content-div i {
+    display: none;
+}
+
+.main-carusel-news {
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+
+.listing-people-photos-big {
+    position: absolute;
+    bottom: 70%;
+}
+
+.black-video-collections h3 {
+    font-size: 15px;
+    margin-top: -10px;
+}
+
+.main-videos {
+    margin-top: 50px;
+}
+
+.share-big {
+    text-align: center;
+}
+
+.main-share-social {
+    margin-bottom: 30px;
+}
+
+.comment-img {
+    padding-left: 30px;
+}
+
+.form-name {
+    padding-left: 0;
+}
+
+.form-number {
+    padding-right: 0;
+}
+
+.grey-dispossessed p {
+    position: relative;
+    top: 186px;
+}
+
+.black-dispossessed p {
+    position: relative;
+    top: 186px;
+}
+
+.position-caption {
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* BASIC */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*END*//*END*//*END*//*END*//*END*//*END*//*END*//*END*//*END*/
+
+}
+
+
+
+/* OTHER *//* OTHER *//* OTHER *//* OTHER *//* OTHER *//* OTHER *//* OTHER */
+/* OTHER *//* OTHER *//* OTHER *//* OTHER *//* OTHER *//* OTHER *//* OTHER */
+/* OTHER *//* OTHER *//* OTHER *//* OTHER *//* OTHER *//* OTHER *//* OTHER */
+
+
+@media screen and (min-width: 300px) and (max-width: 768px) {
+  
+.footer-magazin {
+    background-image: none !important;
+}
+
+.footer-span-magazin {
+    display: none;
+}
+
+.footer-news {
+    position: relative;
+    right: 30px;
+}
+
+}
